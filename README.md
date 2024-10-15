@@ -33,5 +33,7 @@ The dataset used in this project contains the following columns:
 The purpose of this project is to:
 
 _	Analyze airline performance based on key metrics such as on-time arrivals, delays, and cancellations.
+
 _	Provide data-driven insights to help airlines improve operational efficiency and customer satisfaction.
+
 _	Visualize the data using Power BI dashboards and reports to make the insights easily accessible and actionable.
