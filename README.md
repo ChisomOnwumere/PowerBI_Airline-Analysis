@@ -8,9 +8,10 @@ airline operations, performance, and other key metrics. The goal of this project
 aspects of airline performance, including delays, cancellations, on-time performance, and passenger satisfaction.
 
 ## Data Source
-The origin dataset used in this analysis is obtained from Kaggle and can be found at: Kaggle Airline :https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset?resource=download
+The origin dataset used in this analysis is obtained from Kaggle and can be found at:                                  
+Kaggle Airline :https://www.kaggle.com/datasets/iamsouravbanerjee/airline-dataset?resource=download
 
-The csv dataset used can be found above: https://github.com/ChisomOnwumere/PowerBI_Airline-Analysis/blob/main/Bank%20Customer%20Churn%20Prediction.csv
+The CSV dataset used can be found above: https://github.com/ChisomOnwumere/PowerBI_Airline-Analysis/blob/main/Bank%20Customer%20Churn%20Prediction.csv
 
 ## Dataset
 The dataset used in this project contains the following columns:
